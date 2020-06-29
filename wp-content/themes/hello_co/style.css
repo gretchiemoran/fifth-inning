@@ -20,6 +20,14 @@ Text Domain: hello-co
 
 /* Custom Font
 --------------------------------------*/
+/* FOR DEBUG PURPOSES ONLY
+*{
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+}
+*/
+
 @font-face {
 font-family: 'Bon';
 src: url(fonts/Bonjour.otf);
@@ -49,6 +57,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 
 html {
 font-size: 62.5%; /* 10px browser default */
+scroll-behavior: smooth;
 }
 
 /* Chrome fix */
