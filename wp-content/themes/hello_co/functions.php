@@ -542,6 +542,12 @@ genesis_register_sidebar( array(
 ) );
 
 genesis_register_sidebar( array(
+    'id'            => 'image-section-added',
+    'name'        => __( 'Another About Section', 'hyd' ),
+    'description' => __( '3 Widgets - First 2 widgets Use an Image widget, Featured Page/Post, or slider - Demo Images 1000pxW by 1500H, 3rd Widget is the about blurb.', 'hyd' ),
+) );
+
+genesis_register_sidebar( array(
 'id'          => 'featured-post-3',
 'name'          => __( 'Featured Posts 3', 'hyd' ),
 'description'   => __( 'Feature Pages, Posts, and even ads.  Widgets are Full width, not flexible.', 'hyd' ),
