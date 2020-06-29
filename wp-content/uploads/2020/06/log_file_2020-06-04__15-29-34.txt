@@ -1,0 +1,133 @@
+
+---Upload files---
+Content file was not uploaded. Error: 
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 3600
+Files info:
+Site URL = https://fifthinning.wpengine.com
+Data file = not defined!
+Widget file = /nas/content/live/fifthinning/wp-content/uploads/2020/06/STEP-2-HelloCo.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Header Right : 
+
+Navigation Menu - No Title - Imported
+
+Primary Sidebar : 
+
+Custom HTML - No Title - Imported
+Genesis - eNews Extended - Join the Newsletter - Imported
+Custom HTML - Shop Style Widget - Imported
+Custom HTML - The Fonts - Imported
+Custom HTML - The Framework - Imported
+
+Featured Widget : 
+
+Navigation Menu - Our Most Popular.... - Imported
+Genesis - Featured Posts - No Title - Imported
+
+Home badge : 
+
+Image - No Title - Imported
+
+Featured Posts 1 : 
+
+Genesis - Featured Page Advanced - This Weeks #1 - Imported
+Image - No Title - Imported
+
+Featured Posts 2 : 
+
+Genesis - Featured Page Advanced - Top Recipes - Imported
+
+Full Width : 
+
+Custom HTML - No Title - Imported
+
+About Section : 
+
+Genesis - Featured Page Advanced - Meet the Chef - Imported
+Genesis - Featured Page - No Title - Imported
+Custom HTML - No Title - Imported
+
+Featured Posts 3 : 
+
+Genesis - Featured Page Advanced - Top Dessert - Imported
+Image - No Title - Imported
+Genesis - Featured Posts - The Favorites - Imported
+
+Image Section : 
+
+Custom HTML - Follow on Instagram - Imported
+
+Above Footer Image Section : 
+
+Image - No Title - Imported
+Genesis - eNews Extended - Have an e-book? - Imported
+
+Category Index Search : 
+
+Search - Search - Imported
+Categories - The Categories - Imported
+Archives - The Archives - Imported
+
+Category Index : 
+
+Genesis - Featured Posts - Main Dishes - Imported
+Genesis - Featured Page Advanced - Top Desserts - Imported
+Genesis - Featured Posts - Another Category - Imported
+
+Post Ad Bar : 
+
+Image - No Title - Imported
+
+Sticky Social Icons : 
+
+Simple Social Icons - No Title - Imported
+
+Above Content Ad Space : 
+
+Image - No Title - Imported
+
+Below Content Ad Space : 
+
+Image - No Title - Imported
+
+Site Credits Widget : 
+
+Navigation Menu - No Title - Imported
+
+Alternative Footer Widget : 
+
+Custom HTML - No Title - Imported
+Genesis - eNews Extended - Love The Content? - Imported
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Navigation Menu - Top Links - Imported
+
+Footer 2 : 
+
+Image - No Title - Imported
+
+Footer 3 : 
+
+Custom HTML - No Title - Imported
+Simple Social Icons - No Title - Imported
+
+After Entry : 
+
+Custom HTML - No Title - Imported
+
+
